@@ -55,7 +55,7 @@ class _MyHomePageState extends State<MyHomePage>
         ),
       ),
       body:
-         Stack(children:[
+         Stack(children:[ 
           // کل صفحه و عکس ها
           SingleChildScrollView(
         physics: const BouncingScrollPhysics(),
